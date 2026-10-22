@@ -1,4 +1,4 @@
-#Requires AutoHotkey v2.0
+mouse button 4::3
 #SingleInstance Force
 InstallMouseHook
 
